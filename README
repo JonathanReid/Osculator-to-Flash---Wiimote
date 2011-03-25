@@ -1,0 +1,9 @@
+1: run oscillator
+2: set event types etc. (event type = OSC Routing, edit a new value for localhost:9000)
+3: run the Gateway "# java Gateway 9000 3000" (osc port, flash port)
+4: run the flash check…
+
+ const STR_LOCAL_IP:String = "127.0.0.1";
+ const STR_REMOTE_IP:String = "127.0.0.1";
+ const NUM_PORT:Number = 3000;
+
