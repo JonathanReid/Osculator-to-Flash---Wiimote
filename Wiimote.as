@@ -1,4 +1,4 @@
-﻿package reid.jon.wiimote {
+﻿package {
 	
 	import flash.display.Sprite;
 	import flash.display.MovieClip;
